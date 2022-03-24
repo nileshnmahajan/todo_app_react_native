@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939610511979",
+    "project_id": "ytcinemas",
+    "storage_bucket": "ytcinemas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939610511979:android:3bc9cd3349f0459ee56f2e",
+        "android_client_info": {
+          "package_name": "in.pressbuddy.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939610511979-evlm33almd9h782p8eb00cu4us63d24l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuGzU1bkmIFH3eTjLQqeL_LRDG1hFKDBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939610511979-evlm33almd9h782p8eb00cu4us63d24l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

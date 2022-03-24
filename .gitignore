@@ -40,10 +40,12 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-
+android/.gradle/*
 # TypeScript v1 declaration files
 typings/
-
+build/
+release/
+*.zip
 # TypeScript cache
 *.tsbuildinfo
 
@@ -102,3 +104,4 @@ dist
 
 # TernJS port file
 .tern-port
+*.lock
